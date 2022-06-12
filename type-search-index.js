@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"me.manossef.api.wrappers","l":"CustomEnchantment"},{"p":"me.manossef.api.wrappers","l":"EnchantmentWrapper"},{"p":"me.manossef.wrappersapiplugin","l":"Main"}];updateSearchResults();
